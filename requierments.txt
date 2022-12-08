@@ -5,7 +5,7 @@ attrs==18.1.0
 autobahn==18.9.2
 Automat==0.7.0
 Babel==2.6.0
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 constantly==15.1.0
 coreapi==2.3.3
